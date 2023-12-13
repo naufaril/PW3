@@ -1,0 +1,25 @@
+.btnsu{
+    background-color: white;
+    border-color: black;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.btnsu:hover{
+    background-color: rgb(198, 198, 198);
+    border-color: black;
+    color: black;
+}
+
+.btnin{
+    background-color: rgb(10, 148, 194);
+    color: white;
+    border-color: black;
+}
+
+.btnin:hover{
+    background-color: rgb(8, 131, 172);
+    border-color: black;
+    color: white;
+
+}

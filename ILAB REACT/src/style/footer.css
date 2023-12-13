@@ -1,0 +1,32 @@
+.col{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    line-height: 1.5;
+}
+
+.col2 , .col3 , .col4{
+    text-align: left;
+}
+
+.col1 p{
+    color: grey;
+}
+
+.col2 h5{
+    color: grey;
+    line-height: 2;
+}
+
+.col3 h5{
+    color: grey;
+    line-height: 2;
+}
+
+.col4 h5{
+    color: grey;
+    line-height: 2;
+}
+
+.col4 img{
+    padding-right: 20px;
+}
